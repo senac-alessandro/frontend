@@ -5,4 +5,6 @@ Slide HTML básico - https://docs.google.com/presentation/d/1kpZcHqlk_vEnouyd1aD
 
 Slide CSS básico - https://docs.google.com/presentation/d/1K-6RFtaxOzgc3Tfmofkl2nnKWyKDVp_kGS_i1Sj036k/edit?usp=sharing
 
-Exrcício Billboard - https://docs.google.com/document/d/1lO3CIJR9xQMenhtBUOovfu0AU1dSxEZTzobjblIgOfU/edit?usp=sharing
+Exercício Billboard - https://docs.google.com/document/d/1lO3CIJR9xQMenhtBUOovfu0AU1dSxEZTzobjblIgOfU/edit?usp=sharing
+
+Musicas: https://drive.google.com/file/d/1WIomM6gQP5EiBR-6wpW29JMdW0jUabkI/view?usp=sharing
